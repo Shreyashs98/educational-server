@@ -1,0 +1,19 @@
+{
+    "name": "Robotics Designing the Mechanisms for Automated Machinery Second Edition by Ben Zion Sandier",
+    
+    "id": 12,
+    "linktodownload": "https://engineeringbookspdf.com/download/?file=10386&format=pdf",
+    "startDate": "2019-01-01T04:00:00.000Z",
+    "endDate": "2019-01-03T08:00:00.000Z",
+    "time": "9:30 am - 1:30 pm",
+    "location": {
+        "address": "Tata Elxsi, Prestige Shantiniketan",
+        "city": "Bangalore",
+        "state": "Karnataka"
+    },
+    "modes": {
+        "inPerson": true,
+        "online": false
+    },
+    "imageUrl": "https://engineeringbookspdf.com/file-view/robotics-designing-the-mechanisms-for-automated-machinery-second-edition-by-ben-zion-sandier-pdf.png"
+}
