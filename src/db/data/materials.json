@@ -1,212 +1,212 @@
 [
-    {
-        "name": "GATE Engineering Mathematics and General Aptitude Second Edition by Nakul Maini Varsha Agrawal ",
-        
-        "id": 1,
-        "linktodownload": "https://engineeringbookspdf.com/download/?file=4449&format=pdf",
-        "startDate": "2019-01-01T04:00:00.000Z",
-        "endDate": "2019-01-03T08:00:00.000Z",
-        "time": "9:30 am - 1:30 pm",
-        "location": {
-            "address": "Tata Elxsi, Prestige Shantiniketan",
-            "city": "Bangalore",
-            "state": "Karnataka"
-        },
-        "modes": {
-            "inPerson": true,
-            "online": false
-        },
-        "imageUrl": "https://engineeringbookspdf.com/file-view/acing-the-gate-engineering-mathematics-and-general-aptitude-second-edition-pdf.png"
+  {
+    "name": "GATE Engineering Mathematics and General Aptitude Second Edition by Nakul Maini Varsha Agrawal ",
+
+    "id": 1,
+    "linktodownload": "https://engineeringbookspdf.com/download/?file=4449&format=pdf",
+    "startDate": "2019-01-01T04:00:00.000Z",
+    "endDate": "2019-01-03T08:00:00.000Z",
+    "time": "9:30 am - 1:30 pm",
+    "location": {
+      "address": "Tata Elxsi, Prestige Shantiniketan",
+      "city": "Bangalore",
+      "state": "Karnataka"
     },
-    {
-        "name": "Reinforced Concrete Structures Analysis and Design by David A Fanella ",
-        
-        "id": 2,
-        "linktodownload": "https://engineeringbookspdf.com/download/?file=709&format=pdf",
-        "startDate": "2019-01-01T04:00:00.000Z",
-        "endDate": "2019-01-03T08:00:00.000Z",
-        "time": "9:30 am - 1:30 pm",
-        "location": {
-            "address": "Tata Elxsi, Prestige Shantiniketan",
-            "city": "Bangalore",
-            "state": "Karnataka"
-        },
-        "modes": {
-            "inPerson": true,
-            "online": false
-        },
-        "imageUrl": "https://engineeringbookspdf.com/file-view/reinforced-concrete-structures-analysis-and-design-pdf.png"
+    "modes": {
+      "inPerson": true,
+      "online": false
     },
-    {
-        "name": "Mechanical Engineering BTEC National Option Units by Alan Darbyshire ",
-        
-        "id": 3,
-        "linktodownload": "https://engineeringbookspdf.com/download/?file=1511&format=pdf",
-        "startDate": "2019-01-01T04:00:00.000Z",
-        "endDate": "2019-01-03T08:00:00.000Z",
-        "time": "9:30 am - 1:30 pm",
-        "location": {
-            "address": "Tata Elxsi, Prestige Shantiniketan",
-            "city": "Bangalore",
-            "state": "Karnataka"
-        },
-        "modes": {
-            "inPerson": true,
-            "online": false
-        },
-        "imageUrl": "https://engineeringbookspdf.com/file-view/mechanical-engineering-btec-national-option-units-pdf.png"
+    "imageUrl": "https://engineeringbookspdf.com/file-view/acing-the-gate-engineering-mathematics-and-general-aptitude-second-edition-pdf.png"
+  },
+  {
+    "name": "Reinforced Concrete Structures Analysis and Design by David A Fanella ",
+
+    "id": 2,
+    "linktodownload": "https://engineeringbookspdf.com/download/?file=709&format=pdf",
+    "startDate": "2019-01-01T04:00:00.000Z",
+    "endDate": "2019-01-03T08:00:00.000Z",
+    "time": "9:30 am - 1:30 pm",
+    "location": {
+      "address": "Tata Elxsi, Prestige Shantiniketan",
+      "city": "Bangalore",
+      "state": "Karnataka"
     },
-    {
-        "name": "Electric and Hybrid Cars A History Second Edition by Curtis D. Anderson and Judy Anderson ",
-        
-        "id": 4,
-        "linktodownload": "https://engineeringbookspdf.com/download/?file=7007&format=pdf",
-        "startDate": "2019-01-01T04:00:00.000Z",
-        "endDate": "2019-01-03T08:00:00.000Z",
-        "time": "9:30 am - 1:30 pm",
-        "location": {
-            "address": "Tata Elxsi, Prestige Shantiniketan",
-            "city": "Bangalore",
-            "state": "Karnataka"
-        },
-        "modes": {
-            "inPerson": true,
-            "online": false
-        },
-        "imageUrl": "https://engineeringbookspdf.com/file-view/electric-and-hybrid-cars-a-history-second-edition-pdf.jpg"
+    "modes": {
+      "inPerson": true,
+      "online": false
     },
-    {
-        "name": "Electric and Hybrid Buses for Urban Transport Energy Efficiency Strategies by Bogdan Ovidiu Varga Calin Iclodean and Florin Mariasiu ",
-        
-        "id": 4,
-        "linktodownload": "https://engineeringbookspdf.com/download/?file=7008&format=pdf",
-        "startDate": "2019-01-01T04:00:00.000Z",
-        "endDate": "2019-01-03T08:00:00.000Z",
-        "time": "9:30 am - 1:30 pm",
-        "location": {
-            "address": "Tata Elxsi, Prestige Shantiniketan",
-            "city": "Bangalore",
-            "state": "Karnataka"
-        },
-        "modes": {
-            "inPerson": true,
-            "online": false
-        },
-        "imageUrl": "https://engineeringbookspdf.com/file-view/electric-and-hybrid-buses-for-urban-transport-energy-efficiency-strategies-pdf.jpg"
+    "imageUrl": "https://engineeringbookspdf.com/file-view/reinforced-concrete-structures-analysis-and-design-pdf.png"
+  },
+  {
+    "name": "Mechanical Engineering BTEC National Option Units by Alan Darbyshire ",
+
+    "id": 3,
+    "linktodownload": "https://engineeringbookspdf.com/download/?file=1511&format=pdf",
+    "startDate": "2019-01-01T04:00:00.000Z",
+    "endDate": "2019-01-03T08:00:00.000Z",
+    "time": "9:30 am - 1:30 pm",
+    "location": {
+      "address": "Tata Elxsi, Prestige Shantiniketan",
+      "city": "Bangalore",
+      "state": "Karnataka"
     },
-    {
-        "name": "Aircraft Structures for Engineering Students Sixth Edition By T. H. G. Megson ",
-        
-        "id": 6,
-        "linktodownload": "https://engineeringbookspdf.com/download/?file=1761&format=pdf",
-        "startDate": "2019-01-01T04:00:00.000Z",
-        "endDate": "2019-01-03T08:00:00.000Z",
-        "time": "9:30 am - 1:30 pm",
-        "location": {
-            "address": "Tata Elxsi, Prestige Shantiniketan",
-            "city": "Bangalore",
-            "state": "Karnataka"
-        },
-        "modes": {
-            "inPerson": true,
-            "online": false
-        },
-        "imageUrl": "https://engineeringbookspdf.com/file-view/aircraft-structures-for-engineering-students-sixth-edition-pdf.png"
+    "modes": {
+      "inPerson": true,
+      "online": false
     },
-    {
-        "name": "Electrical Generation for More Electric Aircraft using Solid Oxide Fuel Cells by GA Whyatt and LA Chick",
-        
-        "id": 7,
-        "linktodownload": "https://engineeringbookspdf.com/download/?file=8042&format=pdf",
-        "startDate": "2019-01-01T04:00:00.000Z",
-        "endDate": "2019-01-03T08:00:00.000Z",
-        "time": "9:30 am - 1:30 pm",
-        "location": {
-            "address": "Tata Elxsi, Prestige Shantiniketan",
-            "city": "Bangalore",
-            "state": "Karnataka"
-        },
-        "modes": {
-            "inPerson": true,
-            "online": false
-        },
-        "imageUrl": "https://engineeringbookspdf.com/file-view/electrical-generation-for-more-electric-aircraft-using-solid-oxide-fuel-cells-pdf.png"
+    "imageUrl": "https://engineeringbookspdf.com/file-view/mechanical-engineering-btec-national-option-units-pdf.png"
+  },
+  {
+    "name": "Electric and Hybrid Cars A History Second Edition by Curtis D. Anderson and Judy Anderson ",
+
+    "id": 4,
+    "linktodownload": "https://engineeringbookspdf.com/download/?file=7007&format=pdf",
+    "startDate": "2019-01-01T04:00:00.000Z",
+    "endDate": "2019-01-03T08:00:00.000Z",
+    "time": "9:30 am - 1:30 pm",
+    "location": {
+      "address": "Tata Elxsi, Prestige Shantiniketan",
+      "city": "Bangalore",
+      "state": "Karnataka"
     },
-    
-    {
-        "name": "Fundamentals of Physics 2 Electromagnetism Optics and Quantum Mechanics by R. Shankar ",
-        
-        "id": 8,
-        "linktodownload": "https://engineeringbookspdf.com/download/?file=10421&format=pdf",
-        "startDate": "2019-01-01T04:00:00.000Z",
-        "endDate": "2019-01-03T08:00:00.000Z",
-        "time": "9:30 am - 1:30 pm",
-        "location": {
-            "address": "Tata Elxsi, Prestige Shantiniketan",
-            "city": "Bangalore",
-            "state": "Karnataka"
-        },
-        "modes": {
-            "inPerson": true,
-            "online": false
-        },
-        "imageUrl": "https://engineeringbookspdf.com/file-view/fundamentals-of-physics-2-electromagnetism-optics-and-quantum-mechanics-by-r-shankar-pdf.png"
+    "modes": {
+      "inPerson": true,
+      "online": false
     },
-    {
-        "name": "The Architecture of Light Second Edition by Sage Russell Free PDF Download ",
-        
-        "id": 9,
-        "linktodownload": "https://engineeringbookspdf.com/download/?file=10338&format=pdf",
-        "startDate": "2019-01-01T04:00:00.000Z",
-        "endDate": "2019-01-03T08:00:00.000Z",
-        "time": "9:30 am - 1:30 pm",
-        "location": {
-            "address": "Tata Elxsi, Prestige Shantiniketan",
-            "city": "Bangalore",
-            "state": "Karnataka"
-        },
-        "modes": {
-            "inPerson": true,
-            "online": false
-        },
-        "imageUrl": "https://engineeringbookspdf.com/file-view/the-architecture-of-light-second-edition-by-sage-russell-fre.png"
+    "imageUrl": "https://engineeringbookspdf.com/file-view/electric-and-hybrid-cars-a-history-second-edition-pdf.jpg"
+  },
+  {
+    "name": "Electric and Hybrid Buses for Urban Transport Energy Efficiency Strategies by Bogdan Ovidiu Varga Calin Iclodean and Florin Mariasiu ",
+
+    "id": 4,
+    "linktodownload": "https://engineeringbookspdf.com/download/?file=7008&format=pdf",
+    "startDate": "2019-01-01T04:00:00.000Z",
+    "endDate": "2019-01-03T08:00:00.000Z",
+    "time": "9:30 am - 1:30 pm",
+    "location": {
+      "address": "Tata Elxsi, Prestige Shantiniketan",
+      "city": "Bangalore",
+      "state": "Karnataka"
     },
-    {
-        "name": "GATE Engineering Mathematics and General Aptitude Second Edition by Nakul Maini Varsha Agrawal ",
-        
-        "id": 10,
-        "linktodownload": "https://engineeringbookspdf.com/download/?file=4449&format=pdf",
-        "startDate": "2019-01-01T04:00:00.000Z",
-        "endDate": "2019-01-03T08:00:00.000Z",
-        "time": "9:30 am - 1:30 pm",
-        "location": {
-            "address": "Tata Elxsi, Prestige Shantiniketan",
-            "city": "Bangalore",
-            "state": "Karnataka"
-        },
-        "modes": {
-            "inPerson": true,
-            "online": false
-        },
-        "imageUrl": "https://engineeringbookspdf.com/file-view/acing-the-gate-engineering-mathematics-and-general-aptitude-second-edition-pdf.png"
+    "modes": {
+      "inPerson": true,
+      "online": false
     },
-    {
-        "name": "GATE Engineering Mathematics and General Aptitude Second Edition by Nakul Maini Varsha Agrawal ",
-        
-        "id": 11,
-        "linktodownload": "https://engineeringbookspdf.com/download/?file=4449&format=pdf",
-        "startDate": "2019-01-01T04:00:00.000Z",
-        "endDate": "2019-01-03T08:00:00.000Z",
-        "time": "9:30 am - 1:30 pm",
-        "location": {
-            "address": "Tata Elxsi, Prestige Shantiniketan",
-            "city": "Bangalore",
-            "state": "Karnataka"
-        },
-        "modes": {
-            "inPerson": true,
-            "online": false
-        },
-        "imageUrl": "https://engineeringbookspdf.com/file-view/acing-the-gate-engineering-mathematics-and-general-aptitude-second-edition-pdf.png"
-    }
+    "imageUrl": "https://engineeringbookspdf.com/file-view/electric-and-hybrid-buses-for-urban-transport-energy-efficiency-strategies-pdf.jpg"
+  },
+  {
+    "name": "Aircraft Structures for Engineering Students Sixth Edition By T. H. G. Megson ",
+
+    "id": 6,
+    "linktodownload": "https://engineeringbookspdf.com/download/?file=1761&format=pdf",
+    "startDate": "2019-01-01T04:00:00.000Z",
+    "endDate": "2019-01-03T08:00:00.000Z",
+    "time": "9:30 am - 1:30 pm",
+    "location": {
+      "address": "Tata Elxsi, Prestige Shantiniketan",
+      "city": "Bangalore",
+      "state": "Karnataka"
+    },
+    "modes": {
+      "inPerson": true,
+      "online": false
+    },
+    "imageUrl": "https://engineeringbookspdf.com/file-view/aircraft-structures-for-engineering-students-sixth-edition-pdf.png"
+  },
+  {
+    "name": "Electrical Generation for More Electric Aircraft using Solid Oxide Fuel Cells by GA Whyatt and LA Chick",
+
+    "id": 7,
+    "linktodownload": "https://engineeringbookspdf.com/download/?file=8042&format=pdf",
+    "startDate": "2019-01-01T04:00:00.000Z",
+    "endDate": "2019-01-03T08:00:00.000Z",
+    "time": "9:30 am - 1:30 pm",
+    "location": {
+      "address": "Tata Elxsi, Prestige Shantiniketan",
+      "city": "Bangalore",
+      "state": "Karnataka"
+    },
+    "modes": {
+      "inPerson": true,
+      "online": false
+    },
+    "imageUrl": "https://engineeringbookspdf.com/file-view/electrical-generation-for-more-electric-aircraft-using-solid-oxide-fuel-cells-pdf.png"
+  },
+
+  {
+    "name": "Fundamentals of Physics 2 Electromagnetism Optics and Quantum Mechanics by R. Shankar ",
+
+    "id": 8,
+    "linktodownload": "https://engineeringbookspdf.com/download/?file=10421&format=pdf",
+    "startDate": "2019-01-01T04:00:00.000Z",
+    "endDate": "2019-01-03T08:00:00.000Z",
+    "time": "9:30 am - 1:30 pm",
+    "location": {
+      "address": "Tata Elxsi, Prestige Shantiniketan",
+      "city": "Bangalore",
+      "state": "Karnataka"
+    },
+    "modes": {
+      "inPerson": true,
+      "online": false
+    },
+    "imageUrl": "https://engineeringbookspdf.com/file-view/fundamentals-of-physics-2-electromagnetism-optics-and-quantum-mechanics-by-r-shankar-pdf.png"
+  },
+  {
+    "name": "The Architecture of Light Second Edition by Sage Russell Free PDF Download ",
+
+    "id": 9,
+    "linktodownload": "https://engineeringbookspdf.com/download/?file=10338&format=pdf",
+    "startDate": "2019-01-01T04:00:00.000Z",
+    "endDate": "2019-01-03T08:00:00.000Z",
+    "time": "9:30 am - 1:30 pm",
+    "location": {
+      "address": "Tata Elxsi, Prestige Shantiniketan",
+      "city": "Bangalore",
+      "state": "Karnataka"
+    },
+    "modes": {
+      "inPerson": true,
+      "online": false
+    },
+    "imageUrl": "https://engineeringbookspdf.com/file-view/the-architecture-of-light-second-edition-by-sage-russell-fre.png"
+  },
+  {
+    "name": "GATE Engineering Mathematics and General Aptitude Second Edition by Nakul Maini Varsha Agrawal ",
+
+    "id": 10,
+    "linktodownload": "https://engineeringbookspdf.com/download/?file=4449&format=pdf",
+    "startDate": "2019-01-01T04:00:00.000Z",
+    "endDate": "2019-01-03T08:00:00.000Z",
+    "time": "9:30 am - 1:30 pm",
+    "location": {
+      "address": "Tata Elxsi, Prestige Shantiniketan",
+      "city": "Bangalore",
+      "state": "Karnataka"
+    },
+    "modes": {
+      "inPerson": true,
+      "online": false
+    },
+    "imageUrl": "https://engineeringbookspdf.com/file-view/acing-the-gate-engineering-mathematics-and-general-aptitude-second-edition-pdf.png"
+  },
+  {
+    "name": "GATE Engineering Mathematics and General Aptitude Second Edition by Nakul Maini Varsha Agrawal ",
+
+    "id": 11,
+    "linktodownload": "https://engineeringbookspdf.com/download/?file=4449&format=pdf",
+    "startDate": "2019-01-01T04:00:00.000Z",
+    "endDate": "2019-01-03T08:00:00.000Z",
+    "time": "9:30 am - 1:30 pm",
+    "location": {
+      "address": "Tata Elxsi, Prestige Shantiniketan",
+      "city": "Bangalore",
+      "state": "Karnataka"
+    },
+    "modes": {
+      "inPerson": true,
+      "online": false
+    },
+    "imageUrl": "https://engineeringbookspdf.com/file-view/acing-the-gate-engineering-mathematics-and-general-aptitude-second-edition-pdf.png"
+  }
 ]

@@ -1,5 +1,5 @@
-const mongoose = require('mongoose');
-const Material = mongoose.model('Material');
+const mongoose = require("mongoose");
+const Material = mongoose.model("Material");
 
 const getMaterials = async (req, res) => {
   try {
@@ -67,7 +67,7 @@ const deleteMaterial = async (req, res) => {
     } else {
       res.status(404).json({
         success: false,
-        message: 'Material not found',
+        message: "Material not found",
       });
     }
   } catch (error) {
