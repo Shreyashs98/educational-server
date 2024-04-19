@@ -1,1 +1,1 @@
-#Educational App Server
+Educational App Server
